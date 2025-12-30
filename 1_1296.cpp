@@ -1,3 +1,6 @@
+// If no odd numbers → NO
+// Else if all odd AND n is even → NO
+// Else → YES
 #include<bits/stdc++.h>
 using namespace std;
  
